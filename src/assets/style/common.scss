@@ -1,0 +1,19 @@
+@import '../../lib/hotcss/px2rem.scss';
+//颜色相关
+$act-color: #10903d;//重要颜色1
+$text-color-1: #000;//重要级别1
+$text-color-2: #757575;
+$src-bgc: #fafafa;
+$text-e2: #e2e2e2;
+
+//字体
+$text-size-36: px2rem(36);//重要字体1
+$text-size-28: px2rem(28);
+$text-size-24: px2rem(24);
+$text-size-22: px2rem(22);
+
+//高度
+$height-120: px2rem(120);
+
+//偏移量
+$padding-left-25: px2rem(25);
